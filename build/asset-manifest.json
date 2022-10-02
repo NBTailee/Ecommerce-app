@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/static/js/main.f45db782.js",
+    "static/media/product-8.png": "/static/media/product-8.c985367a3cf57a20bb8f.png",
+    "static/media/product-6.png": "/static/media/product-6.ae5fb10206238167ba18.png",
+    "static/media/slider-img-3.png": "/static/media/slider-img-3.7d31cdb4220fa9a2b583.png",
+    "static/media/product-1.png": "/static/media/product-1.6c1918dd4dadf492824b.png",
+    "static/media/product-7.png": "/static/media/product-7.cc076c14bb554396b676.png",
+    "static/media/product-4.png": "/static/media/product-4.6178a9445f6cdc002854.png",
+    "static/media/slider-img-2.png": "/static/media/slider-img-2.343781dc7475a292afd8.png",
+    "static/media/product-3.png": "/static/media/product-3.54269813b48480fb2f63.png",
+    "static/media/cata-img-1.jpg": "/static/media/cata-img-1.79e4217ddbe723e059bb.jpg",
+    "static/media/slider-img-4.png": "/static/media/slider-img-4.cbe369a1d5528a1de3cb.png",
+    "static/media/product-5.png": "/static/media/product-5.19409aaf9e1587e1685d.png",
+    "static/media/cata-img-2.jpg": "/static/media/cata-img-2.7aee03b40508fb4cce38.jpg",
+    "static/media/product-2.png": "/static/media/product-2.5afa29ec0d52bcc0b6fc.png",
+    "static/media/cata-img-3.jpg": "/static/media/cata-img-3.241aa4246f7824dbbe43.jpg",
+    "index.html": "/index.html",
+    "main.f45db782.js.map": "/static/js/main.f45db782.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f45db782.js"
+  ]
+}
